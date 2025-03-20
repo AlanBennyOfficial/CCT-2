@@ -4,7 +4,7 @@ distance = int(input("Enter distance traveled in km: "))
 
 if distance < 0: 
     print("Distance cannot be negative!") 
-    fare=0 
+    fare = 0 
 elif distance <= 5: 
     fare = 10 
 elif distance <= 15:
