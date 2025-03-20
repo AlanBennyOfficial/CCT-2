@@ -1,4 +1,4 @@
-# 
+#  Write a program that asks for a username and password, then checks if they match stored values to allow login.
 
 stored_user = "admin" 
 stored_pass = "password123" 
